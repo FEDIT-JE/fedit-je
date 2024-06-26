@@ -21,8 +21,7 @@ I'm a 22 year old software developer from Switzerland. I have a strong passion f
 
 📫 How to reach me
 
-Email: jan.eggenberger@bluewin.ch
-
+Email: [jan.eggenberger@bluewin.ch](mailto:jan.eggenberger@bluewin.ch)
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jan-eggenberger-903517179/)
 
 Feel free to explore my repositories and get in touch if you have any questions or if you'd like to collaborate on a project!
