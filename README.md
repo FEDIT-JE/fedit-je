@@ -25,7 +25,9 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/jan-eggenberger-903517179/)
 Feel free to explore my repositories and get in touch if you have any questions or if you'd like to collaborate on a project!
 
 📊 GitHub Stats
+
 [![Jan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedit-je)](https://github.com/anuraghazra/github-readme-stats)
+
 💬 Let's Connect
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Let's connect and build something great together!
 
