@@ -1,14 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm a 22 year old software developer from Switzerland. I have a strong passion for coding and continuously learning new technologies to enhance my skills. Here's a bit more about me:
 
-### 🚀 About Me
+## 🚀 About Me
 - 🌍 Based in Switzerland
 - 👨‍💻 Passionate about software development
 - 🧠 Always learning and growing
 - 🎨 Love to work on both frontend and backend projects
 
-### 🛠️ Skills
+## 🛠️ Skills
 - Languages & Frameworks:
   - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
   - [Angular](https://angular.io/)
@@ -19,7 +19,7 @@ I'm a 22 year old software developer from Switzerland. I have a strong passion f
   - [Java](https://www.oracle.com/java/technologies/javase-downloads.html)
   - [XBase++](https://doc.alaska-software.com/)
 
-📫 How to reach me
+## 📫 How to reach me
 
 Email: [jan.eggenberger@bluewin.ch](mailto:jan.eggenberger@bluewin.ch)
 
@@ -27,7 +27,7 @@ LinkedIn: [LinkedIn](https://www.linkedin.com/in/jan-eggenberger-903517179/)
 
 Feel free to explore my repositories and get in touch if you have any questions or if you'd like to collaborate on a project!
 
-💬 Let's Connect
+## 💬 Let's Connect
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Let's connect and build something great together!
 
 ☕ [Buy me a Coffee](https://buymeacoffee.com/jxn.egg)
