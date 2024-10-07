@@ -25,6 +25,8 @@ Email: [jan@eggenberger.biz](mailto:jan@eggenberger.biz)
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/jan-eggenberger-903517179/)
 
+Website: [jan-eggenberger.ch](https://jan-eggenberger.ch)
+
 Feel free to explore my repositories and get in touch if you have any questions or if you'd like to collaborate on a project!
 
 ## 💬 Let's Connect
