@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a 22-year-old software developer from Switzerland, deeply passionate about coding and the continuous pursuit of knowledge. My focus is on staying at the forefront of technology by learning new languages, frameworks, and tools to refine my skill set and deliver efficient, scalable solutions. I am always eager to take on new challenges that push the boundaries of my expertise.
+I am a 23-year-old software developer from Switzerland, deeply passionate about coding and the continuous pursuit of knowledge. My focus is on staying at the forefront of technology by learning new languages, frameworks, and tools to refine my skill set and deliver efficient, scalable solutions. I am always eager to take on new challenges that push the boundaries of my expertise.
 
 ## 🚀 About Me
 - 🌍 Based in Switzerland
