@@ -12,6 +12,7 @@ I am a 23-year-old software developer from Switzerland, deeply passionate about 
 - Languages & Frameworks:
   - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
   - [Angular](https://angular.io/)
+  - [NextJS](https://nextjs.org/)
   - [SQL](https://en.wikipedia.org/wiki/SQL)
   - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
   - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
