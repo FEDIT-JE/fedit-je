@@ -33,7 +33,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 ## 💬 Let's Connect
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Let's connect and build something great together!
 
-## ☕ [Buy me a Coffee](https://buymeacoffee.com/jxn.egg)
+## ☕ [Buy me a Coffee](https://ko-fi.com/jxnegg)
 
 
 
