@@ -1,56 +1,15 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Jan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I am a 23-year-old software developer from Switzerland, deeply passionate about coding and the continuous pursuit of knowledge. My focus is on staying at the forefront of technology by learning new languages, frameworks, and tools to refine my skill set and deliver efficient, scalable solutions. I am always eager to take on new challenges that push the boundaries of my expertise.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedit-je" alt="fedit-je" /></a> </p>
 
-## ☕ [Buy me a Coffee](https://ko-fi.com/jxnegg)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 🚀 About Me
-- 🌍 Based in Switzerland
-- 👨‍💻 Passionate about software development
-- 🧠 Always learning and growing
-- 🎨 Love to work on both frontend and backend projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 🛠️ Skills
-- Languages & Frameworks:
-  - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
-  - [Angular](https://angular.io/)
-  - [NextJS](https://nextjs.org/)
-  - [SQL](https://en.wikipedia.org/wiki/SQL)
-  - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - [Java](https://www.oracle.com/java/technologies/javase-downloads.html)
-  - [XBase++](https://doc.alaska-software.com/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fedit-je&show_icons=true&locale=en&layout=compact" alt="fedit-je" /></p>
 
-## 📫 How to reach me
-
-Email: [jan@eggenberger.biz](mailto:jan@eggenberger.biz)
-
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/jan-eggenberger-903517179/)
-
-Website: [jan-eggenberger.ch](https://jan-eggenberger.ch)
-
-Feel free to explore my repositories and get in touch if you have any questions or if you'd like to collaborate on a project!
-
-## 💬 Let's Connect
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Let's connect and build something great together!
-
-
-
-
-<!--### Hi there 👋-->
-
-<!--
-**FEDIT-JE/fedit-je** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fedit-je&show_icons=true&locale=en" alt="fedit-je" /></p>
