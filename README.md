@@ -9,11 +9,11 @@
   <a href="https://jan-eggenberger.ch">
     <img src="https://img.shields.io/badge/Website-jan--eggenberger.ch-000000?style=for-the-badge&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/jan-eggenberger-903517179/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jan%20Eggenberger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   <a href="mailto:jan@eggenberger.biz">
     <img src="https://img.shields.io/badge/Email-jan%40eggenberger.biz-D14836?style=for-the-badge&logo=mail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jan-eggenberger-903517179/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jan%20Eggenberger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
