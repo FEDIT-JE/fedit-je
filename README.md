@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="https://ha-meira.ch">
+    <img src="https://img.shields.io/badge/Website-ha--meira.ch-000000?style=for-the-badge&logoColor=white">
+  </a>
   <a href="https://jan-eggenberger.ch">
     <img src="https://img.shields.io/badge/Website-jan--eggenberger.ch-000000?style=for-the-badge&logoColor=white">
   </a>
