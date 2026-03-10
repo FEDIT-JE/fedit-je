@@ -28,23 +28,23 @@
 # 🚀 About Me
 
  Based in Switzerland  
-- 👨‍💻 24-year-old software developer  
-- 🧠 Constantly learning new technologies  
-- ⚙️ Passionate about building scalable and efficient systems  
-- 🎨 Enjoy working across **frontend, backend, and full-stack projects**
+- 👨‍💻 Software developer based in Switzerland
+- 🧠 Focus on SaaS, scalable web applications, and automation
+- ⚙️ Building with Next.js, C#, SQL, and TypeScript
+- 🚀 Always exploring new technologies and improving systems
 
 ---
 
 # 🧠 Tech Stack
 
 ### 💻 Languages
-<img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/-Xbase%2B%2B-00599C?style=flat&logoColor=white"> <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white">  <img src="https://img.shields.io/badge/-Xbase%2B%2B-00599C?style=flat&logoColor=white">  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
 
 ### 🎨 Frontend
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">  <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white">  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 
 ### ⚙️ Tools & Platforms
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white">  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white">
 
 ---
 
