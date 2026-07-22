@@ -68,4 +68,4 @@ I'm always open to discussing:
 - creative ideas  
 - interesting collaborations  
 
-If you want to build something great together — **let's talk 🚀**
+If you want to build something great together **let's talk 🚀**
